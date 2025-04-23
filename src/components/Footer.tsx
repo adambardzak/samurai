@@ -38,7 +38,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 sm:gap-10 md:gap-12">
           {/* Information Links */}
           <div className="text-center sm:text-left">
-            <h3 className="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4 pt-10">
+            <h3 className="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4 pt-10 md:pt-0">
               Informace
             </h3>
             <ul className="space-y-2.5 sm:space-y-3">
